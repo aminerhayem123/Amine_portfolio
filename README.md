@@ -24,4 +24,4 @@ Personal portfolio website made with Django framework in the backend, and with C
 <img aline="center" src="https://imgur.com/9Fykk0q.png" alt="secreenshot">
 
 #### About & Contact Me Sections:
-<img aline="center" src="https://imgur.com/dH8KGBV.png" alt="secreenshot">
+<img aline="center" src="https://i.imgur.com/djYOST6.png" alt="secreenshot">
